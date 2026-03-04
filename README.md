@@ -1,5 +1,5 @@
-**🏥 Healthcare Analysis Dashboard 
-/n 📊 Project Overview**
+**🏥 Healthcare Analysis Dashboard **
+** 📊 Project Overview**
 
 The **Healthcare Analytics Dashboard** is a comprehensive Business Intelligence project developed using:
  * Microsoft Excel (with Power Pivot)
